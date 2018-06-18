@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Samuel Toloza</title>
+    <link>https://www.samueltoloza.cl/posts/</link>
+    <description>Recent content in Posts on Samuel Toloza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <lastBuildDate>Fri, 15 Jun 2018 23:42:49 -0400</lastBuildDate>
+    
+	<atom:link href="https://www.samueltoloza.cl/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://www.samueltoloza.cl/posts/welcome/</link>
+      <pubDate>Fri, 15 Jun 2018 23:42:49 -0400</pubDate>
+      
+      <guid>https://www.samueltoloza.cl/posts/welcome/</guid>
+      <description>Bienvenidos Este es mi nuevo sitio, el cual será un espacio para compartir conocimientos de informática en general, y alguno que otros temas que me parecen de interes. Espero que lo disfruten.</description>
+    </item>
+    
+  </channel>
+</rss>

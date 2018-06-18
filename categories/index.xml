@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Samuel Toloza</title>
-    <link>http://www.samueltoloza.cl/categories/</link>
+    <link>https://www.samueltoloza.cl/categories/</link>
     <description>Recent content in Categories on Samuel Toloza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cl</language>
     
-	<atom:link href="http://www.samueltoloza.cl/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.samueltoloza.cl/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
