@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Toloza</title>
+    <link>http://www.samueltoloza.cl/</link>
+    <description>Recent content on Samuel Toloza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <lastBuildDate>Thu, 14 Jun 2018 22:54:55 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.samueltoloza.cl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yo</title>
+      <link>http://www.samueltoloza.cl/about/</link>
+      <pubDate>Thu, 14 Jun 2018 22:54:55 -0400</pubDate>
+      
+      <guid>http://www.samueltoloza.cl/about/</guid>
+      <description>Hola. Mi nombre es Samuel Toloza Parraguez. Soy un Full Stack Developer con algunos años de experiencia.
+Las tecnologías que mas me agradan son:
+ Python Django Angular PostgreSQL  También tengo experiancia en algunos otros lenguajes y tecnologias, entre las que destaco JAVA, Object Pascal, ASP, Visual Basic, C#, Javascript, PHP. Control de versiones GIT, SVN. Sistemas GNU/Linux basados en Debian. Uso avanzado de gestores de contenidos CMS como Wordpress, Joomla, Drupal, bases de datos SQL Server, MySQL, SQLlite.</description>
+    </item>
+    
+  </channel>
+</rss>
