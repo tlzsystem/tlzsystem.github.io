@@ -6,10 +6,20 @@
     <description>Recent content on Samuel Toloza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-cl</language>
-    <lastBuildDate>Fri, 15 Jun 2018 23:42:49 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jun 2018 19:13:02 -0400</lastBuildDate>
     
 	<atom:link href="https://www.samueltoloza.cl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Myurls</title>
+      <link>https://www.samueltoloza.cl/posts/myurls/</link>
+      <pubDate>Sat, 23 Jun 2018 19:13:02 -0400</pubDate>
+      
+      <guid>https://www.samueltoloza.cl/posts/myurls/</guid>
+      <description>MyUrl, una aplicación básica en Django Hola a todos!
+Muchas veces me a sucedido que viendo contenido en internet a través de algún computador aparece algún video, meme, o cualquier tipo de texto, que debido al contexto en el que estoy, este no se hace apropiado de verlo desde ahí. Para verlo desde el celular por ejemplo, tengo que enviarme el link por correo o similares, cosa que es muy molesta y latosa por decirlo de alguna forma.</description>
+    </item>
     
     <item>
       <title>Welcome</title>
