@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samueltoloza.cl/categories/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/tags/gohugo/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/tags/hugo/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/posts/new-site/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/categories/personal/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/posts/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/tags/</loc>
+    <lastmod>2020-06-03T18:13:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/contact/</loc>
+    <lastmod>2020-05-27T20:07:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/</loc>
+    <lastmod>2020-05-27T20:07:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://samueltoloza.cl/about/</loc>
+    <lastmod>2020-05-27T20:06:46-04:00</lastmod>
+  </url>
+  
+</urlset>

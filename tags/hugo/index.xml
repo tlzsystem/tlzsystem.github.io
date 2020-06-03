@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Samuel Toloza</title>
+    <link>https://samueltoloza.cl/tags/hugo/</link>
+    <description>Recent content in hugo on Samuel Toloza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <lastBuildDate>Wed, 03 Jun 2020 18:13:16 -0400</lastBuildDate>
+    
+	<atom:link href="https://samueltoloza.cl/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New look for my web site</title>
+      <link>https://samueltoloza.cl/posts/new-site/</link>
+      <pubDate>Wed, 03 Jun 2020 18:13:16 -0400</pubDate>
+      
+      <guid>https://samueltoloza.cl/posts/new-site/</guid>
+      <description>Hello.
+This is my new web site. I built it using Hugo. I am using the Coder template.
+I will start writing new content on the blog soon.
+Regards</description>
+    </item>
+    
+  </channel>
+</rss>

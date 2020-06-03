@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Toloza</title>
+    <link>https://samueltoloza.cl/</link>
+    <description>Recent content on Samuel Toloza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-cl</language>
+    <lastBuildDate>Wed, 27 May 2020 20:07:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://samueltoloza.cl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New look for my web site</title>
+      <link>https://samueltoloza.cl/posts/new-site/</link>
+      <pubDate>Wed, 03 Jun 2020 18:13:16 -0400</pubDate>
+      
+      <guid>https://samueltoloza.cl/posts/new-site/</guid>
+      <description>Hello.
+This is my new web site. I built it using Hugo. I am using the Coder template.
+I will start writing new content on the blog soon.
+Regards</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://samueltoloza.cl/contact/</link>
+      <pubDate>Wed, 27 May 2020 20:07:37 -0400</pubDate>
+      
+      <guid>https://samueltoloza.cl/contact/</guid>
+      <description>Hello
+You can send me a message here:
+ hola@samueltoloza.cl  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://samueltoloza.cl/about/</link>
+      <pubDate>Wed, 27 May 2020 20:06:46 -0400</pubDate>
+      
+      <guid>https://samueltoloza.cl/about/</guid>
+      <description>Hello.
+My name is Samuel Toloza. I&amp;rsquo;m from Chile.
+I&amp;rsquo;m a software developer. I have knowledge in:
+ Java Python C#, Visual Basic, .NET Object Pascal PostgreSQL, SQL Server, MySQL Angular Web Scraping  I have some applications published in PlayStore:
+ Boleta de Honorarios Chile Farmacias CL  Mi Github repo is tlzsystem
+If you have any project ideas, please contact me!
+Regards</description>
+    </item>
+    
+  </channel>
+</rss>
